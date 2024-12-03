@@ -49,7 +49,7 @@ class Esercizio {
         for(j=0;j<n-1;j++){
             if(u[i]-u[j]=t){
                 System.out.println("il risultato è ",t);
-                
+
             }
         }
     }
